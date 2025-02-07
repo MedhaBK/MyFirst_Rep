@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+st.title("Hello People!, Medha here!!!")
 st.title("Welcome Everyone we are learning Python <3 :)")
 st.write("Pyhton requires practice")
 data = pd.DataFrame({'c1': [23, 45, 67, 89],'c2': ['A','B','C','D']})
